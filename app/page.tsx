@@ -98,6 +98,8 @@ export default function Home() {
       </div>
     </div>
 
+    
+
         {/* Button with hover effect */}
         <div className="z-10 space-x-6">
           <button className="relative overflow-hidden rounded-full border-2 border-gray-800 bg-transparent py-6 px-[3.75rem] font-medium uppercase text-gray-800 transition-colors before:absolute before:inset-0 before:-z-10 before:origin-bottom before:scale-y-0 before:bg-gray-800 before:transition-transform before:duration-300 before:content-[''] hover:text-white hover:before:origin-top hover:before:scale-y-100">
